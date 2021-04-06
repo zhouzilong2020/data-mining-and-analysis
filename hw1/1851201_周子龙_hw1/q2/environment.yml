@@ -1,0 +1,9 @@
+name: DAM-2021-SPRING
+channels:
+  - defaults
+dependencies:
+  - matplotlib
+  - numpy
+  - scipy
+  - pip
+  - python=3.7

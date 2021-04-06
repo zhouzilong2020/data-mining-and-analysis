@@ -1,0 +1,9 @@
+[0] Config.pm:304> INFO - This is Biber 2.14
+[0] Config.pm:307> INFO - Logfile is '/Users/zhouzilong/Desktop/æ°æ®ææä¸åæ/p1/æªå½å.blg'
+[75] biber-darwin:322> INFO - === Sun Mar 21, 2021, 11:36:34
+[211] Biber.pm:415> INFO - Reading '/Users/zhouzilong/Desktop/数据挖掘与分析/p1/未命名.bcf'
+[294] Biber.pm:943> INFO - Found 0 citekeys in bib section 0
+[299] Utils.pm:304> WARN - The file '/Users/zhouzilong/Desktop/数据挖掘与分析/p1/未命名.bcf' does not contain any citations!
+[306] bbl.pm:652> INFO - Writing '/Users/zhouzilong/Desktop/æ°æ®ææä¸åæ/p1/æªå½å.bbl' with encoding 'UTF-8'
+[306] bbl.pm:755> INFO - Output to /Users/zhouzilong/Desktop/æ°æ®ææä¸åæ/p1/æªå½å.bbl
+[306] Biber.pm:128> INFO - WARNINGS: 1
